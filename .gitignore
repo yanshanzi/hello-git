@@ -1,3 +1,14 @@
+# 编译产物
 *.exe
 *.o
 *.out
+*.obj
+*.ilk
+*.pdb
+
+# 本机 IDE 配置（含绝对路径，不上传）
+.vscode/
+
+# 系统杂项
+Thumbs.db
+.DS_Store
